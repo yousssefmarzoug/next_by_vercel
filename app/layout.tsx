@@ -5,10 +5,10 @@ import { inter } from '@/app/ui/fonts';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Acme Dashboard',
+    template: '%s | youssef marzoug vercel',
     default: 'youssef marzoug vercel',
   },
-  description: 'The official Next.js Learn Dashboard built with App Router.',
+  description: 'he official Next.js Learn Dashboard built with App Router.T',
   metadataBase: new URL('https://next-by-vercel-seven.vercel.app'),
 };
 export default function RootLayout({
