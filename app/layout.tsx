@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     template: '%s | youssef marzoug vercel',
     default: 'youssef marzoug vercel',
   },
-  description: 'he official Next.js Learn Dashboard built with App Router.T',
+  description: 'youssef marzoug vercel',
   metadataBase: new URL('https://next-by-vercel-seven.vercel.app'),
 };
 export default function RootLayout({
